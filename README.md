@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It contains basic practice modules while learning react
+1) Candy Dispenser
+2) Chart(Static)
+3) Calculator(Basic)
+
 ## Available Scripts
 
 In the project directory, you can run:

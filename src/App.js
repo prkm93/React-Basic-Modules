@@ -1,6 +1,6 @@
 import React from 'react';
 import Candy from './components/Candy';
-import Chart from './Chart/Chart';
+import Chart from './components/Chart';
 import Calculator from './components/Calculator';
 import {Tab, Tabs} from 'react-bootstrap';
 
