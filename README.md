@@ -7,6 +7,8 @@ It contains basic practice modules created while learning react
 2) Chart(Static)
 3) Calculator(Basic)
 
+Hosted on - https://prkm93.github.io/React-Basic-Modules/
+
 ## Available Scripts
 
 In the project directory, you can run:
